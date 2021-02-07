@@ -4,6 +4,6 @@ API service to scrape data from Steam profiles. It is made using python with [fl
 
 ## Deployment
 
-I have deployd this API on a Virtual private server using [NGINX](https://www.nginx.com/) and [Gunicorn3](https://gunicorn.org/). The servers has a HTTPS sertificate that is made with [Certbot](https://certbot.eff.org/). 
+I have deployd this API on a Virtual private server using [NGINX](https://www.nginx.com/) and [Gunicorn3](https://gunicorn.org/). The server has a HTTPS sertificate that is made with [Certbot](https://certbot.eff.org/). 
 
 URL for the API is https://www.steam-check-api.xyz/
